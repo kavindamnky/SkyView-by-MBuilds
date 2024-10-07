@@ -1,4 +1,4 @@
-[![MasterHead](https://freefrontend.com/assets/img/css-weather-icons/Animated-Weather-Icons.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/1150175112872591451/1292883481256525927/ezgif-4-98fff4a19a.gif?ex=67055b12&is=67040992&hm=6d6c0fa7ff015dc6ad05a2b42a666ef003590df23fb0c8dcaffe06eac7fa5214&)](https://rishavchanda.io)
 
 <h2 align="center">
     Sky Viwer 1.1 [ui updated]
