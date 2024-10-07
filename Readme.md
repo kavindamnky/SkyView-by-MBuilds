@@ -8,7 +8,7 @@
     <img src="/images/logo_gif.gif" alt="Sky_Viewr" width="200"/>
 </p>
 
-MxConsole is a versatile Discord bot designed to enhance your Minecraft server with advanced features, professional commands, and custom functionalities.
+SkyView Weather is a lightweight web application built using HTML, CSS, and JavaScript, enabling users to quickly access real-time weather information for any location. Ideal for checking current conditions, forecasts, or planning outdoor activities, it offers a seamless and clean interface for easy navigation and instant weather updates.
 
 ## Table of Contents
 
