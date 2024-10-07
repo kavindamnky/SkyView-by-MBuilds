@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-    <img src="/images/logo_gif.gif" alt="Sky_Viewr" width="200"/>
+    <img src="/images/thumb.gif" alt="Sky_Viewr" />
 </p>
 
 SkyView Weather is a lightweight web application built using HTML, CSS, and JavaScript, enabling users to quickly access real-time weather information for any location. Ideal for checking current conditions, forecasts, or planning outdoor activities, it offers a seamless and clean interface for easy navigation and instant weather updates.
