@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1150175112872591451/1292883481256525927/ezgif-4-98fff4a19a.gif?ex=67055b12&is=67040992&hm=6d6c0fa7ff015dc6ad05a2b42a666ef003590df23fb0c8dcaffe06eac7fa5214&)](https://rishavchanda.io)
 
 <h2 align="center">
     Sky Viwer 1.1 [ui updated]
@@ -18,7 +17,7 @@ SkyView Weather is a lightweight web application built using HTML, CSS, and Java
 
 ## 🎗️ Overview
 
-MxConsole simplifies server management and enhances player interaction on your SriCraft Minecraft server. It offers a range of powerful features designed to streamline administrative tasks and improve community engagement.
+SkyView Weather is a lightweight web app using HTML, CSS, and JavaScript, providing real-time weather updates with a clean, easy-to-use interface. Perfect for quick access to current conditions and forecasts.
 
 ## 🚀 Features
 
@@ -35,24 +34,6 @@ MxConsole simplifies server management and enhances player interaction on your S
 ### Starting the Bot
 
 - To start the bot, use the following command:
-
-## 📜 License
-
-> [!NOTE] 
-> MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under the MIT License. See [MIT License](LICENSE) for details.
-
-**TL;DR**
-
-- BY: Credit must be given to me, the creator. (lordskidgod)
-- NC: Only noncommercial use of your work is permitted.
-- SA: Adaptations must be shared under the same terms.
-
-![License](https://img.shields.io/github/license/lordskidgod/MxConsole)
-
-
-
-For more details, please see the [LICENSE](LICENSE) file included with the source code.
-
 ## 📧 Contact
 
 For support, questions, or any inquiries, feel free to contact us, reach out through:
@@ -60,16 +41,6 @@ For support, questions, or any inquiries, feel free to contact us, reach out thr
 - **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
 - **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
 
-We value your feedback and are here to help you make the most out of MxConsole.
-
-### Notes:
-> [!NOTE]
-> - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
-> - **Commands**: Each command is briefly summarized with its functionality. You can expand on each command further as needed.
-> - **Customization**: Tailor the content to fit your specific bot's commands, features, and project details.
-> - **Images**: You can integrate images into specific command explanations by including markdown image syntax (`![Command Name](path_to_image.png)`) where appropriate.
-  
-This structure provides a clear and organized overview of your Discord bot project, making it easier for users to understand its features, installation process, usage instructions, and how they can contribute or get > support. Adjust and expand on each section based on your project's specific needs and audience.
 
 <h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
 
