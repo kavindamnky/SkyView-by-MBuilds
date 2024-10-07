@@ -21,27 +21,25 @@ SkyView Weather is a lightweight web app using HTML, CSS, and JavaScript, provid
 
 ## 🚀 Features
 
-> These are the features that makes you wanna use our bot. Check it out!
+> These are the features that makes you wanna use Script. Check it out!
 
-- **Interactive Commands:** Manage your server efficiently with intuitive slash commands.
-- **Dynamic Status Updates:** Keep players informed with customizable status rotations.
-- **Error Logging:** Monitor bot health with integrated error logging via Discord webhooks.
-- **Feedback System:** Collect player feedback effortlessly, complete with star ratings and staff mentions.
-- **Changelog Navigation:** Stay updated with streamlined access to server updates and changes.
+- **Interactive Weather Search:** Get real-time weather updates effortlessly with intuitive location search.
+- **Dynamic Forecast Display:** Keep users informed with rotating, customizable weather conditions.
+- **Error Monitoring:** Ensure smooth performance with integrated error logging and notifications.
+- **Feedback System:** Gather feedback on weather accuracy and app experience, with star ratings and user                             mentions.
+- **Weather Alerts:** Stay updated with easy access to severe weather alerts and forecast changes.
 
 ## 📖 Usage
 
-### Starting the Bot
+### run the home.html usining vs code or something.
 
-- To start the bot, use the following command:
 ## 📧 Contact
 
 For support, questions, or any inquiries, feel free to contact us, reach out through:
 
-- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
-- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
+- **Discord:** Join our [Discord server](https://discord.gg/RHDFK6Cu) for live assistance and updates.
 
 
-<h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
+<h6 align="center">©️ M"Builds Projects</h6>
 
-<p align="center">© 2024 Ceylon Network Inc. Developed with ❤️ by lordskidgod.</p>
+<p align="center">© 2024 M"Builds Studios, All Rights reserved. by V.Kavinda [MNKY].</p>
